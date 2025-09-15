@@ -4,7 +4,7 @@
 
 
 <div style="text-align:center">
-    <img src="images/logo.png" alt="Project Logo">
+    <img align="center" src="images/logo.png" alt="Project Logo">
 </div>
 
 <br>
