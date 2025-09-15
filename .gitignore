@@ -1,0 +1,14 @@
+# Ignore personal environment file
+.env
+venv
+
+# Ignore langserver data folder
+langserver/data
+langserver/__pycache__
+
+# Ignore Qdrant data folder
+qdrant/qdrant_data/.deleted
+qdrant/qdrant_data/aliases
+qdrant/qdrant_data/collections
+qdrant/qdrant_data/raft_state.json
+
