@@ -1,11 +1,11 @@
 # <p align="center"> LangChain-Qdrant Multi-Source API </p>
 
-<p align="center">developed by NexuSecurus&trade;</p> 
+<p align="center">Developed by NexuSecurus&trade;</p> 
 
 
-<div style="text-align:center">
-    <img align="center" src="images/logo.png" alt="Project Logo">
-</div>
+<p align="center">
+    <img src="images/logo.png" alt="Project Logo">
+</p>
 
 <br>
 
@@ -43,7 +43,6 @@
       <td><img src="https://img.shields.io/badge/Qdrant-VectorDB-purple"></td>
       <td><img src="https://img.shields.io/badge/Docker-Compose-blue?logo=docker"></td>
       <td><img src="https://img.shields.io/badge/Ollama-Latest-blue?logo=openai"></td>
-
     </tr>
   </table>
 </p>
