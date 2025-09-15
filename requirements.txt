@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pypdf
+python-docx
+beautifulsoup4
+httpx
+langchain
+qdrant-client
+feedparser
+psycopg2-binary
+python-multipart
+sse-starlette
+pydantic
