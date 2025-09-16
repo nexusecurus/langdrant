@@ -99,7 +99,7 @@ curl -X POST http://localhost:8000/generate \
 ```bash
 curl -X POST http://localhost:8000/generate \
   -H "Content-Type: application/json" \
-  -H "x-api-key: 173a58eb0d771bf3f28c464c3d7121adca4f377d214062dbeb24065dd97e96c0" \
+  -H "x-api-key: YOUR_API_KEY" \
   -d '{
     "model": "llama3:8b",
     "max_tokens": 2048,
